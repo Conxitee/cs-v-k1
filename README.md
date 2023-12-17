@@ -21,8 +21,8 @@
     </style>
 </head>
 <body>
-    <h1>Eljönnél velem korizni? </h1>
-    <h2> buzi</h2>
+    <h1>Eljönnél velem korizni Budapestre kettesben?</h1>
+    <h2>(A jegyek már megvannak) </h2>
     
     <form id="korizniForm">
         <label>
